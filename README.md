@@ -7,3 +7,5 @@ This is to cause trouble
 >>>>>>> very_bad
 
 ##Heading 2
+
+Just something going on
